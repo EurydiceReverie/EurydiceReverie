@@ -1,4 +1,14 @@
-## Hi there 👋
+- 👋 Hi, I’m Karthik
+- 👀 I’m interested in Python 🐍 Language.
+- 🌱 I’m currently learning Embedded systems automation.
+- 💞️ I love cloud development☁️.
+- 🚀 Passion
+     -  Where there’s code, there’s joy! I’m deeply passionate about programming languages, whether it’s:
+          - C/C++ 🖥️
+          - Go 🐹
+          - Java ☕
+          - JavaScript 🌐
+- 📫 How to reach me https://t.me/SchadenfreudeKK/
 
 <!--
 **EurydiceReverie/EurydiceReverie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
