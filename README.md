@@ -18,7 +18,7 @@
 - 📫 How to reach me https://t.me/SchadenfreudeKK/
 - 🔗 Connect with me:
 
-[![Linked-In](https://raw.githubusercontent.com/EurydiceReverie/EurydiceReverie/c8316e33a7f028aaf671ad97c17d6e234efc8e74/Linked%20In%20(2).svg)](https://www.linkedin.com/in/kethari-karthik-190a6930a)
+[![Linked-In](https://raw.githubusercontent.com/EurydiceReverie/EurydiceReverie/c7f537f2c09e67d08e349d8f524d9cf804c48097/Linked%20In%20(3).svg)](https://www.linkedin.com/in/kethari-karthik-190a6930a)
 
 <!--
 **EurydiceReverie/EurydiceReverie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
