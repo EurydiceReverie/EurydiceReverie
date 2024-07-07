@@ -9,7 +9,7 @@
      - Programming: C, C++, Python, Java
      - Electronics: Analog Circuit Design, Microcontrollers (Arduino, ESP 32, 8086, 8051)
      - Tools used: Git, MATLAB, Multisim, Proteus, AVR-Toolkit, VS Code
-- 💻 Passionate about Coding, Electronics, and everything about Tech.
+- 💻 Passionate about Coding, Electronics, and everything related to Tech.
      -  Where there’s code, there’s joy! I’m deeply passionate about programming languages, whether it’s:
           - C/C++ 🖥️
           - Go 🐹
